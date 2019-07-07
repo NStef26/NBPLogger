@@ -1,0 +1,12 @@
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\bin\Debug\netstandard2.0\NBP.Logger.RedisClient.deps.json
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\bin\Debug\netstandard2.0\NBP.Logger.RedisClient.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\obj\Debug\netstandard2.0\NBP.Logger.RedisClient.csprojAssemblyReference.cache
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\obj\Debug\netstandard2.0\NBP.Logger.RedisClient.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\obj\Debug\netstandard2.0\NBP.Logger.RedisClient.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\obj\Debug\netstandard2.0\NBP.Logger.RedisClient.AssemblyInfo.cs
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\bin\Debug\netstandard2.0\NBP.Logger.RedisClient.pdb
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\bin\Debug\netstandard2.0\NBP.Logger.DTO.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\bin\Debug\netstandard2.0\NBP.Logger.DTO.pdb
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\obj\Debug\netstandard2.0\NBP.Logger.RedisClient.csproj.CopyComplete
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\obj\Debug\netstandard2.0\NBP.Logger.RedisClient.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.RedisClient\obj\Debug\netstandard2.0\NBP.Logger.RedisClient.pdb

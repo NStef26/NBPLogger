@@ -1,0 +1,8 @@
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.DTO\bin\Debug\netstandard2.0\NBP.Logger.DTO.deps.json
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.DTO\bin\Debug\netstandard2.0\NBP.Logger.DTO.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.DTO\bin\Debug\netstandard2.0\NBP.Logger.DTO.pdb
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.DTO\obj\Debug\netstandard2.0\NBP.Logger.DTO.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.DTO\obj\Debug\netstandard2.0\NBP.Logger.DTO.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.DTO\obj\Debug\netstandard2.0\NBP.Logger.DTO.AssemblyInfo.cs
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.DTO\obj\Debug\netstandard2.0\NBP.Logger.DTO.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.DTO\obj\Debug\netstandard2.0\NBP.Logger.DTO.pdb

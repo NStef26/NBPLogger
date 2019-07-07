@@ -1,0 +1,14 @@
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\bin\Debug\NBP.Logger.CassandraClient.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\bin\Debug\NBP.Logger.CassandraClient.pdb
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\bin\Debug\Cassandra.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\bin\Debug\LZ4.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\bin\Debug\NBP.Logger.DTO.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\bin\Debug\NBP.Logger.DTO.pdb
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\obj\Debug\NBP.Logger.CassandraClient.csprojAssemblyReference.cache
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\obj\Debug\NBP.Logger.CassandraClient.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\obj\Debug\NBP.Logger.CassandraClient.csproj.CopyComplete
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\obj\Debug\NBP.Logger.CassandraClient.dll
+C:\Users\jovan\source\repos\NBP.Logger\NBP.Logger.CassandraClient\obj\Debug\NBP.Logger.CassandraClient.pdb
